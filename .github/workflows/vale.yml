@@ -20,9 +20,6 @@ jobs:
                 https://github.com/errata-ai/Readability/releases/latest/download/Readability.zip
 
             # Optional
-            config: https://raw.githubusercontent.com/errata-ai/vale/master/.vale.ini
-
-            # Optional
             # files: path/to/lint
           env:
             # Required, set by GitHub actions automatically:
