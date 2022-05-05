@@ -20,7 +20,7 @@ jobs:
                 https://github.com/errata-ai/Readability/releases/latest/download/Readability.zip
 
             # Optional
-            files: all
+            files: README.md
           env:
             # Required, set by GitHub actions automatically:
             # https://docs.github.com/en/actions/security-guides/automatic-token-authentication#about-the-github_token-secret
