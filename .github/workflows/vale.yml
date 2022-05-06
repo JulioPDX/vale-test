@@ -10,7 +10,7 @@ jobs:
           uses: actions/checkout@master
 
         - name: Vale
-          uses: errata-ai/vale-action@master
+          uses: errata-ai/vale-action@v1.5.0
           with:
             # Optional
             styles: |
