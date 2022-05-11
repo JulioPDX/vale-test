@@ -13,11 +13,11 @@ jobs:
           uses: errata-ai/vale-action@reviewdog
           with:
             # Optional
-            styles: |
-                https://github.com/errata-ai/Microsoft/releases/latest/download/Microsoft.zip
-                https://github.com/errata-ai/write-good/releases/latest/download/write-good.zip
-                https://github.com/errata-ai/Google/releases/latest/download/Google.zip
-                https://github.com/errata-ai/Readability/releases/latest/download/Readability.zip
+#             styles: |
+#                 https://github.com/errata-ai/Microsoft/releases/latest/download/Microsoft.zip
+#                 https://github.com/errata-ai/write-good/releases/latest/download/write-good.zip
+#                 https://github.com/errata-ai/Google/releases/latest/download/Google.zip
+#                 https://github.com/errata-ai/Readability/releases/latest/download/Readability.zip
 
             # Optional
             # files: all
