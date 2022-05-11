@@ -12,7 +12,7 @@ jobs:
         - name: Vale
           uses: errata-ai/vale-action@reviewdog
           with:
-            filter_node: nofilter
+            filter_node: file
             # Optional
 #             styles: |
 #                 https://github.com/errata-ai/Microsoft/releases/latest/download/Microsoft.zip
