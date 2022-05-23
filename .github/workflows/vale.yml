@@ -12,7 +12,8 @@ jobs:
         - name: Vale
           uses: errata-ai/vale-action@reviewdog
           with:
-            filter_node: file
+            filter_node: nofilter
+            reporter: github-check
             # Optional
 #             styles: |
 #                 https://github.com/errata-ai/Microsoft/releases/latest/download/Microsoft.zip
