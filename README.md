@@ -603,8 +603,8 @@ This all takes place without any manual intervention and with very little chance
 
 Below are a number of links to additional documentation about Ansible AVD and Ansible in general:
 
-- With [eos_design](../../roles/eos_cli_config_gen)
+<!-- - With [eos_design](../../roles/eos_cli_config_gen)
 - With [eos_cli_config_gen](../../roles/eos_cli_config_gen)
 - With [Ansible Tower](https://docs.ansible.com/ansible/2.3/tower.html)
 - With CI/CD
-- With [eos_config_deploy_cvp](../../roles/eos_config_deploy_cvp) / [eos_config_deploy_eapi](../../roles/eos_config_deploy_eapi)
+- With [eos_config_deploy_cvp](../../roles/eos_config_deploy_cvp) / [eos_config_deploy_eapi](../../roles/eos_config_deploy_eapi) -->
